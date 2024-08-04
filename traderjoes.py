@@ -88,7 +88,7 @@ class Traderjoes():
             logging.info(f"Scraping page {page_no} started....")
             await page.waitFor('//ul[@class="Pagination_pagination__list__1JUIg"]') # Waiting for the element to load
             product_url = selector.xpath('//a[@class="Link_link__1AZfr ProductCard_card__img_link__2bBqA"]/@href').getall()
-            product_id = [i.split('/')[-1] for i in product_url]
+            id = [i.split('/')[-1] for i in product_url]
             product_url = [self.url+i for i in product_url] # Adding Base url
             product_name = selector.xpath('.//h2[@class="ProductCard_card__title__text__uiWLe"]/a/text()').getall()
             price = selector.xpath('.//span[@class="ProductPrice_productPrice__price__3-50j"]/text()').getall()
@@ -111,7 +111,7 @@ class Traderjoes():
                 list_of_product_unit.extend(unit)
                 list_of_product_category.extend(category)
                 list_of_product_image_urls.extend(image_url)
-                list_of_product_ids.extend(product_id)
+                list_of_product_ids.extend(id)
                 # print("\n".join(product_name))
                 logging.info(f"Scraping page {page_no} Completed....")
             else:
@@ -152,7 +152,7 @@ class Traderjoes():
         """
 
         key_mapping = {
-            "Product_ids": "product_id",
+            "Product_ids": "id",
             'product_names': 'title',
             'product_urls': 'url',
             'product_prices': 'price',

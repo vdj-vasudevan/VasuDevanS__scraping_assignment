@@ -1,0 +1,4157 @@
+{
+    "ff_invalid_data": {
+        "invalid_entries": []
+    },
+    "lc_invalid_data": {
+        "invalid_entries": []
+    },
+    "tj_invalid_data": {
+        "invalid_entries": []
+    },
+    "ff_rate_diff": {
+        "7092150927553": [
+            {
+                "price": 18000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "943502426169": [
+            {
+                "price": 15000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6065725669569": [
+            {
+                "price": 15000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "7082064740545": [
+            {
+                "price": 20000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6637496565953": [
+            {
+                "price": 8000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "4452249731134": [
+            {
+                "price": 2500
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "7288814403777": [
+            {
+                "price": 15000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6084401594561": [
+            {
+                "price": 1500
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6765096730817": [
+            {
+                "price": 4000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6765093421249": [
+            {
+                "price": 4500
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6084383899841": [
+            {
+                "price": 1000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6065805394113": [
+            {
+                "price": 18000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6065800249537": [
+            {
+                "price": 30000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "4452251533374": [
+            {
+                "price": 6500
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "4452251140158": [
+            {
+                "price": 2500
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "4685482197054": [
+            {
+                "price": 6000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "1966412070969": [
+            {
+                "price": 1000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6285620936897": [
+            {
+                "price": 6000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "4685745324094": [
+            {
+                "price": 6000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6834209554625": [
+            {
+                "price": 4000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "7091697418433": [
+            {
+                "price": 9000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "2257979375673": [
+            {
+                "price": 6000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "7082068803777": [
+            {
+                "price": 8500
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6741377253569": [
+            {
+                "price": 10000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "944147431481": [
+            {
+                "price": 6500
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6285490979009": [
+            {
+                "price": 5000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6066160369857": [
+            {
+                "price": 20000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6066162106561": [
+            {
+                "price": 20000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6066176819393": [
+            {
+                "price": 25000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6065738449089": [
+            {
+                "price": 35000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6066185470145": [
+            {
+                "price": 20000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6066191892673": [
+            {
+                "price": 30000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6066221285569": [
+            {
+                "price": 40000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6066195267777": [
+            {
+                "price": 25000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6066180292801": [
+            {
+                "price": 20000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6066414223553": [
+            {
+                "price": 20000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6066211422401": [
+            {
+                "price": 20000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6066213322945": [
+            {
+                "price": 20000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6066169249985": [
+            {
+                "price": 20000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6066216698049": [
+            {
+                "price": 10000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6066218991809": [
+            {
+                "price": 10000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6066199199937": [
+            {
+                "price": 10000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6098894815425": [
+            {
+                "price": 100000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "4557477412926": [
+            {
+                "price": 1000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "6085223841985": [
+            {
+                "price": 500
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "4548720820286": [
+            {
+                "price": 2000
+            },
+            {
+                "rate_difference": 0
+            }
+        ],
+        "944067280953": [
+            {
+                "price": 500
+            },
+            {
+                "rate_difference": 1000
+            }
+        ],
+        "6993701273793": [
+            {
+                "price": 500
+            },
+            {
+                "rate_difference": 500
+            }
+        ],
+        "7560067809473": [
+            {
+                "price": 20000
+            },
+            {
+                "rate_difference": 5000
+            }
+        ]
+    },
+    "ff_variants": {
+        "7092150927553": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "943502426169": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6065725669569": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "7082064740545": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6637496565953": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "4452249731134": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "7288814403777": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6084401594561": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6765096730817": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6765093421249": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6084383899841": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6065805394113": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6065800249537": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "4452251533374": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "4452251140158": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "4685482197054": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "1966412070969": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6285620936897": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "4685745324094": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6834209554625": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "7091697418433": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "2257979375673": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "7082068803777": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6741377253569": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "944147431481": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6285490979009": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6066160369857": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6066162106561": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6066176819393": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6065738449089": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6066185470145": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6066191892673": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6066221285569": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6066195267777": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6066180292801": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6066414223553": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6066211422401": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6066213322945": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6066169249985": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6066216698049": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6066218991809": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6066199199937": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6098894815425": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "4557477412926": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6085223841985": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "4548720820286": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "944067280953": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "6993701273793": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ],
+        "7560067809473": [
+            {
+                "images_exist": true,
+                "price_exists": true
+            },
+            {
+                "images_exist": true,
+                "price_exists": true
+            }
+        ]
+    }
+}

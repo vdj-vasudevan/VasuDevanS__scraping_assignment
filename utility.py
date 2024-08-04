@@ -24,7 +24,7 @@ async def get_browser():
             "headless": True,
             "ignoreHTTPSErrors": True,})
 
-async def get_html_data(page,wait_selector):
+async def get_html_data(page,wait_selector=None):
     """
     Waits for a specific element to load on the page and returns the page's HTML content.
 
@@ -39,11 +39,12 @@ async def get_html_data(page,wait_selector):
     Returns:
         str: The HTML content of the page as a string.
     """
-    await page.waitFor(wait_selector)
+    if wait_selector:
+        await page.waitFor(wait_selector)
     html_content = await page.evaluate('document.body.innerHTML')
     return html_content
 
-async def get_full_html_data(page,wait_selector):
+async def get_full_html_data(page,wait_selector=None):
     """
     Waits for a specific element to load on the page and returns the page's HTML content.
 
@@ -58,7 +59,8 @@ async def get_full_html_data(page,wait_selector):
     Returns:
         str: The HTML content of the page as a string.
     """
-    await page.waitFor(wait_selector)
+    if wait_selector:
+        await page.waitFor(wait_selector)
     html_content = await page.evaluate('document.documentElement.outerHTML')
     return html_content
 

@@ -29,14 +29,60 @@ class Lechocolat():
 
     @logger
     async def get_prod_details(self,page):
+        """
+        Scrapes product details from a website.
+
+        This method navigates through category and product pages to collect detailed information about each product. It extracts various attributes such as product ID, image URL, title, category, description, price, weight, and the URL of the product page.
+
+        Args:
+            page (pyppeteer.page.Page): The Pyppeteer page object used for navigation and scraping.
+
+        Returns:
+            list[dict]: A list of dictionaries where each dictionary contains details of a single product.
+
+        Raises:
+            Exception: If an error occurs during the scraping process, it raises the exception.
+        """
         try:
             html_content = await utility.get_html_data(page=page,wait_selector='//h1[@class="headerLogo__image"]')
             selector =  Selector(text=html_content)
             Product_data_list=[]
-            
+            category_urls = selector.xpath('//li[@class="siteMenuItem" and @data-depth="2"]/a/@href').getall()
+            for cat_url in category_urls:
+                print(f"Navigating to {cat_url}")
+                await page.goto(cat_url)
+                html_content = await utility.get_html_data(page=page,wait_selector='//section[@class="productMiniature__data"]')
+                selector =  Selector(text=html_content)
+                each_prod_url = selector.xpath('//section[@class="productMiniature__data"]/a/@href').getall()
+                for n,each_prod in enumerate(each_prod_url):
+                    # if n==2:
+                        # break
+                    print(f"Navigating to {each_prod}")
+                    try:
+                        product_unit= {}
+                        await page.goto(each_prod)
+                        html_content = await utility.get_html_data(page=page)
+                        selector = Selector(text=html_content)
+                        product_unit["id"] = each_prod.split("/")[-1]
+                        product_unit['image_url'] = selector.xpath('//li[@class="productImages__item keen-slider__slide"]/a/@href').get()
+                        product_unit["title"] = selector.xpath('//h1[@class="productCard__title"]/text()').get()
+                        product_unit["categoty"] = selector.xpath('//h2[@class="productCard__subtitle"]/text()').get()
+                        description = selector.css('div.productAccordion__content > p::text').getall()
+                        product_unit["description"] = " ".join([desc.strip() for desc in description])
+                        product_unit["price"] = selector.css('div.productAccordion__content > p::text').re_first(r'£\d+\.\d+')
+                        product_unit["weight"] = selector.xpath('//p[@class="productCard__weight"]/text()').get()
+                        product_unit['url'] = each_prod
+                        Product_data_list.append(product_unit)
+                        await asyncio.sleep(1)
+                    except Exception as err:
+                        id = each_prod.split("/")[-1]
+                        logger.error(f"Error occuered while fetching {id} error : {err}...")
+                        await asyncio.sleep(5) 
+
             return Product_data_list
         except Exception as err:
-            raise err
+            logger.error(f"Error occuered : {err}...")
+            return Product_data_list
 
     @logger
     async def GetData(self):
